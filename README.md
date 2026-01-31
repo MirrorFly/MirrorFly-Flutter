@@ -54,7 +54,7 @@ To obtain your license key:
 2. Navigate to the **Overview** page.
 3. Copy the license key from the **Application Info** section.
 
-## <img src="https://www.mirrorfly.com/docs/assets/images/license-key-a1173e922ebff14b6ae1a2428f822eec.png" data-canonical-src="https://www.mirrorfly.com/docs/assets/images/license-key-a1173e922ebff14b6ae1a2428f822eec.png" width="100%" alt=
+<img src="https://www.mirrorfly.com/docs/assets/images/license-key-a1173e922ebff14b6ae1a2428f822eec.png" data-canonical-src="https://www.mirrorfly.com/docs/assets/images/license-key-a1173e922ebff14b6ae1a2428f822eec.png" width="100%" alt=
 
 ## 📦 Create Android Dependency
 
