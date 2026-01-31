@@ -7,8 +7,6 @@
 [![Flutter Video SDK](https://img.shields.io/badge/Flutter%20Video%20SDK-blue)](https://www.mirrorfly.com/flutter-chat-sdk.php)
 [![Docs](https://img.shields.io/badge/Docs-grey)](https://www.mirrorfly.com/docs/chat/flutter-plugin/v1/quick-start/)
 
-# MirrorFly Flutter Plugin
-
 MirrorFly Flutter Plugin is a powerful real-time communication SDK that enables chat, voice, video calling, live streaming, and AI-powered communication features in Flutter applications.
 
 This repository helps you integrate MirrorFly’s Flutter SDK into Android and iOS apps with minimal development effort. Using a customizable white-label solution, you can build native messaging and calling experiences quickly while maintaining full data ownership and flexible deployment options.
