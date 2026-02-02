@@ -4,7 +4,15 @@
 
 This repository guides you through integrating MirrorFly's Flutter SDK into your cross-platform application. Build native messaging and calling experiences for both Android and iOS with minimal development effort using our customizable white-label solution. This documentation covers all essential libraries, dependencies, supplementary features, and step-by-step installation instructions to get your Flutter app communication-ready.
 
-## Key Product Offerings
+MirrorFly Flutter Plugin is a powerful real-time communication SDK that enables chat, voice, video calling, live streaming, and AI-powered communication features in Flutter applications.
+
+This repository helps you integrate MirrorFly’s Flutter SDK into Android and iOS apps with minimal development effort. Using a customizable white-label solution, you can build native messaging and calling experiences quickly while maintaining full data ownership and flexible deployment options.
+
+This documentation covers all essential libraries, dependencies, supplementary features, and step-by-step installation instructions to make your Flutter app communication-ready.
+
+---
+
+## 🤹 Key Product Offerings
 
 MirrorFly helps build omni-channel communication apps for any kind of business.
 
@@ -43,7 +51,7 @@ To obtain your license key, follow these stepss:
 
 ![MirrorFly License Key](https://www.mirrorfly.com/docs/assets/images/license-key-a1173e922ebff14b6ae1a2428f822eec.png)
 
----
+<img src="https://www.mirrorfly.com/docs/assets/images/license-key-a1173e922ebff14b6ae1a2428f822eec.png" width="100%">
 
 ## Create Android Dependency
 
@@ -111,7 +119,9 @@ Now, enable all the below mentioned capabilities into your project:
 
 ---
 
-## Create Flutter Dependency
+<img  src="https://www.mirrorfly.com/assets/images/tutorials/build-chat-app-using-flutter/app-group.webp" width="100%"/>
+
+## 📦 Create Flutter Dependency
 
 Add the following dependency to your **`pubspec.yaml`** file:
 
