@@ -35,7 +35,7 @@ MirrorFly helps build omni-channel communication apps for any kind of business.
 
 ## Get MirrorFly License Key
 
-To obtain your license key, follow these steps:
+To obtain your license key, follow these stepss:
 
 1. Sign up for a free MirrorFly account in the [MirrorFly Console](https://console.mirrorfly.com). If you already have an account, sign in.
 2. Navigate to the **Overview** page in your account to locate your license key.
